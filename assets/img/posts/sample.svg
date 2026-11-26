@@ -1,0 +1,4 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="300" viewBox="0 0 800 300">
+  <rect width="800" height="300" fill="#eef2f7"/>
+  <text x="400" y="160" font-family="sans-serif" font-size="36" text-anchor="middle" fill="#34495e">예시 이미지 (assets/img/posts/sample.svg)</text>
+</svg>

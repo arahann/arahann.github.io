@@ -14,12 +14,12 @@ timezone: Asia/Seoul
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Steven의 블로그 # 블로그 제목 (임시값, 원하는 이름으로 바꾸세요)
+title: A # 블로그 제목 (임시값, 원하는 이름으로 바꾸세요)
 
-tagline: 일상, 개발, 프롬프트, 주식 이야기 # 제목 아래 한 줄 소개 (임시값)
+tagline: 일상 # 제목 아래 한 줄 소개 (임시값)
 
 description: >- # used by seo meta and the atom feed
-  일상, 개발, 프롬프트, 주식에 관한 글을 기록하는 개인 블로그입니다.
+  일상 글을 기록하는 개인 블로그입니다.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -31,7 +31,7 @@ github:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Steven # 글 작성자 이름 (하단 저작권 표시에도 사용)
+  name: A # 글 작성자 이름 (하단 저작권 표시에도 사용)
   email: # 공개할 이메일 주소 (비워두면 표시 안 함)
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:

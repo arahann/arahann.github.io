@@ -72,9 +72,9 @@
 
 자기소개 페이지는 `_tabs/about.md` 를 고치면 됩니다.
 
-## giscus 댓글 켜기 (선택)
+## giscus 댓글
 
-댓글은 현재 꺼져 있습니다. 켜려면:
+댓글은 켜져 있습니다 (`_config.yml`의 `comments`). 처음부터 다시 설정할 때 순서:
 
 1. 저장소 **Settings > General > Features** 에서 **Discussions** 체크
 2. <https://github.com/apps/giscus> 에서 giscus 앱을 이 저장소에 설치
